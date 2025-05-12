@@ -1,3 +1,47 @@
+// Problem Description
+
+// Print the following Pattern in Output :
+// *****
+//    *
+//   *
+//  *
+// *****
+
+
+// Problem Constraints
+
+// No constraints.
+
+
+// Input Format
+
+// No need to take input.
+
+
+// Output Format
+
+// Print the following pattern in 5 lines with 5 stars in first and last line. 3 spaces and 1 star in 2nd line, 2 spaces and 1 star in 3rd line, 1 space and 1 star in 4th line.
+// *****
+//    *
+//   *
+//  *
+// *****
+
+
+// Example Input
+
+// No input required.
+
+
+// Example Output
+
+// Output :
+// *****
+//    *
+//   *
+//  *
+// *****
+
 import java.lang.*;
 import java.util.*;
 
